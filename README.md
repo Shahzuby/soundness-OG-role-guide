@@ -9,17 +9,13 @@ Official Discords:
 1️⃣ Type `/8queens` to play your first puzzle
 2️⃣ Win and hit **"Generate Ligero Proof"** in your game channel
 3️⃣ Earn your first badge + unlock the **Sound OG** role
-
-### ✨ **Game Arena Highlights**
 🔐 Real zero-knowledge proofs of your wins --> showing the fact that you won a game while protecting your personal info.
 🎮 Modern web-based games — no installs, no friction
 🏅 13+ unique achievement badges (You can check them later)
 🐋 Walrus storage = your proofs live on-chain for 2 weeks
 🧠🐬 The validity of your proofs will be stored as an object on the Sui mainnet.
 
-💬 **Need help or have questions?** Ask in the community — we’re all here to play, learn, and level up together.
 
-🎉 **Ready to play?** Start a game and enter the Arena!
 <img width="456" height="472" alt="image" src="https://github.com/user-attachments/assets/6019d6d0-71d4-495e-9281-a17baab1b8cb" />
 
 ---
