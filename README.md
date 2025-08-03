@@ -110,9 +110,14 @@ Expected output:
 soundness-cli list-keys
 ```
 
-### 📜 paste your game proof 
-copy your proof in note pad and change your-key-name to my-key and paste the proof 
-done
+### 📜 paste your game proof
+you need to add my-key in proof see below for how to do
+original proof 
+--key-name=""
+change to 
+--key-name="my-key"
+
+right cli not working try after some time 
 
 ---
 
