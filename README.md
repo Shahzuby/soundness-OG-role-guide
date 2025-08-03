@@ -112,9 +112,13 @@ soundness-cli list-keys
 
 ### 📜 paste your game proof
 you need to add my-key in proof see below for how to do
-original proof 
+
+original proof
+
 --key-name=""
-change to 
+
+change to
+
 --key-name="my-key"
 
 right cli not working try after some time 
