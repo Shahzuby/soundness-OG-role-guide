@@ -21,7 +21,7 @@ You can run all commands directly in GitHub using **Codespaces** without needing
 
 ### ➕ How to Create a Codespace
 
-1. Go to the GitHub: create new repo with random name and add readme and created
+1. Go to the codespace on this repo
 2. Click the green **Code** button > Select **"Open with Codespaces"** > **New codespace**
 3. Wait for the environment to load (1–2 mins)
 4. Now, run the below commands inside the terminal panel
