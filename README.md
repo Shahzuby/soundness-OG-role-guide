@@ -111,6 +111,7 @@ soundness-cli list-keys
 ```
 
 ### 📜 paste your game proof 
+copy your proof in note pad and change <your-key-name> to my-key and paste the proof 
 done
 
 ---
